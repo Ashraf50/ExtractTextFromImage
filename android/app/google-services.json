@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194991669744",
+    "project_id": "extract-text-and-translate",
+    "storage_bucket": "extract-text-and-translate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194991669744:android:21f88bffe0f6e49a735d35",
+        "android_client_info": {
+          "package_name": "com.example.extract_text_and_translate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5jF3K-1IHYKTv_B3xhkGXYvpNOk2TYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
